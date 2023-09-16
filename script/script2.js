@@ -12,7 +12,7 @@ if (ped === 'pari') {
   location.reload()
 }
 
-// 2. Verificare che sia un numero e che sia compreso tra i due valori indicati
+// 3. Verificare che sia un numero e che sia compreso tra i due valori indicati
 if (isNaN(input)){
   alert ('Devi inserire un numero');
   location.reload()
@@ -23,37 +23,37 @@ if (isNaN(input)){
   console.log(input);
 }
 
-// 3. Creare una funzione randomizer che ci dia un numero da 1 a 5
+// 4. Creare una funzione randomizer che ci dia un numero da 1 a 5
 function randomizer (max) {
   return randomNum = Math.floor(Math.random() * max) + 1
 }
 const randomized = randomizer(5)
 console.log(randomized);
 
-// 4. Sommare i due numeri (usando una funzione?)
+// 5. Sommare i due numeri (usando una funzione?)
 const sum = randomized + input
 console.log(sum);
 
-// 5. Verificare che la somma dei due numeri sia pari o dispari usando una funzione
+// 6. Verificare che la somma dei due numeri sia pari o dispari usando una funzione
 function isEven (num) {
   if (num % 2 === 0) {
     console.log('Il numero è pari');
-    // 6. Dichiarare il vincitore.
+    // 7. Dichiarare il vincitore.
     if (ped === 'pari') {
-      // 7. Stampare il risultato.
+      // 8. Stampare il risultato.
       console.log('Hai vinto');
     }else {
-      // 7. Stampare il risultato.
+      // 8. Stampare il risultato.
       console.log('Ritenta, sarai più fortunato');
     }
   } else {
     console.log('Il numero è dispari');
-    // 6. Dichiarare il vincitore.
+    // 7. Dichiarare il vincitore.
     if (ped === 'dispari') {
-      // 7. Stampare il risultato.
+      // 8. Stampare il risultato.
       console.log('Hai vinto');
     }else {
-      // 7. Stampare il risultato.
+      // 8. Stampare il risultato.
       console.log('Ritenta, sarai più fortunato');
     }
   }

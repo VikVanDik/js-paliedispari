@@ -27,10 +27,11 @@ Palindromi
 
 Pari e dispari
 ===
-1. Creare il prompt per ricevere un numero da 1 a 5 dall'utente
-2. Verificare che sia un numero e che sia compreso tra i due valori indicati
-3. Creare una funzione randomizer che ci dia un numero da 1 a 5
-4. Sommare i due numeri (usando una funzione?)
-5. Verificare che la somma dei due numeri sia pari o dispari usando una funzione
-6. Dichiarare il vincitore.
-7. Stampare il risultato.
+1. Creare il prompt per ricevere un numero da 1 a 5 dall'utente e per la scelta di pari e dispari.
+2. Verificare che l'utente abbia inserito pari o dispari
+3. Verificare che sia un numero e che sia compreso tra i due valori indicati
+4. Creare una funzione randomizer che ci dia un numero da 1 a 5
+5. Sommare i due numeri (usando una funzione?)
+6. Verificare che la somma dei due numeri sia pari o dispari usando una funzione
+7. Dichiarare il vincitore.
+8. Stampare il risultato.
