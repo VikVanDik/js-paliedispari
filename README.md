@@ -22,3 +22,4 @@ Palindromi
 1. Creare il prompt per ricevere l'input dall'utente.
 2. Creare una funzione che prenda la stringa e la trasformi in un array, la inverta e la confronti con la stringa originale dopo averla di nuovo trasformata in una stringa.
 3. Se le due stringhe confrontate sono uguali la parola è palindroma.
+4. Stampare il risultato
