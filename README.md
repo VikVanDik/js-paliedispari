@@ -23,3 +23,14 @@ Palindromi
 2. Creare una funzione che prenda la stringa e la trasformi in un array, la inverta e la confronti con la stringa originale dopo averla di nuovo trasformata in una stringa.
 3. Se le due stringhe confrontate sono uguali la parola è palindroma.
 4. Stampare il risultato
+
+
+Pari e dispari
+===
+1. Creare il prompt per ricevere un numero da 1 a 5 dall'utente
+2. Verificare che sia un numero e che sia compreso tra i due valori indicati
+3. Creare una funzione randomizer che ci dia un numero da 1 a 5
+4. Sommare i due numeri (usando una funzione?)
+5. Verificare che la somma dei due numeri sia pari o dispari usando una funzione
+6. Dichiarare il vincitore.
+7. Stampare il risultato.
