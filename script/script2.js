@@ -8,7 +8,7 @@ if (ped === 'pari') {
 }else if (ped === 'dispari') {
   console.log('Hai scelto dispari');
 }else {
-  alert ('Devi scegliere pari o dispari')
+  alert ("Devi scegliere 'pari' o 'dispari'")
   location.reload()
 }
 
